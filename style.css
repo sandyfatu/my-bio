@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  line-height: 1;
+  margin: 0;
+  font-family: sans-serif;
+  /* background-color: rgb(24, 2, 2);  */
+  text-decoration-color: rgb(241, 239, 236);
+  text-align: center;
+  /* color: rgb(22, 121, 207); */
+}
+.aboutme {
+  padding: auto;
+  font-size: 2rem;
+  color: rgb(95, 228, 69);
+  font-style: italic;
+  font-family: fantasy;
+  text-decoration: underline;
+  text-shadow: rgb(221, 187, 73);
+
+  lighting-color: blue;
+}
+.para-container {
+  background-color: rgb(241, 240, 234);
+  text-decoration: rgb(233, 235, 236);
+  padding: 2rem;
+  text-align: justify;
+  text-decoration: wavy;
+  color: rgb(12, 14, 15);
+}
+.para1 {
+}
+.para2 {
+}
+.para3 {
+}
+.child-container {
+}
