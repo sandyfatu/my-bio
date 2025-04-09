@@ -26,12 +26,5 @@
   text-align: justify;
   text-decoration: wavy;
   color: rgb(12, 14, 15);
-}
-.para1 {
-}
-.para2 {
-}
-.para3 {
-}
-.child-container {
+  border-radius: 20px;
 }
