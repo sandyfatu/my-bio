@@ -1,1 +1,1 @@
-more about me
+Home page of author Sandra Fatu Ogblechi.
